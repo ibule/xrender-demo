@@ -1,0 +1,21 @@
+{
+  "description": "An auto-generated demo by dumi",
+  "main": "index.jsx",
+  "dependencies": {
+    "react": "18.3.1",
+    "form-render": "2.5.2",
+    "react-dom": "18.3.1",
+    "antd": "5.24.6"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "q6l76g",
+  "version": "0.0.35",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
